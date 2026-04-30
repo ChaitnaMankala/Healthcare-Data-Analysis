@@ -28,29 +28,29 @@ The dataset contains 10,000 patient records with the following features:
 
 **Key Analysis & Insights:**
 
-**Patient Demographics**
+**1.Patient Demographics**
 - Nearly equal distribution of male and female patients
 - Most patients fall in the 18–30 age group
 
-**Medical Conditions**
+**2.Medical Conditions**
 - Most common condition: Asthma
 - Followed by: Cancer, Hypertension, Arthritis
 
-**Gender-Based Insights**
+**3.Gender-Based Insights**
 - Females show slightly higher counts across most conditions
 - Cancer is more prominent among females
 - Hypertension is slightly higher among males
 
-**Billing Analysis**
+**4.Billing Analysis**
 - Billing ranges from $1,000 to $49,995
 - Top hospitals and doctors contribute significantly to total billing
 - Example: Smith and Sons recorded the highest billing
 
-**Hospitalization Trends**
+**5.Hospitalization Trends**
 - Most patients are hospitalized for short durations (1–30 days)
 - Weak correlation between age, billing, and hospitalization duration
 
-**Insurance & Medication**
+**6.Insurance & Medication**
 - Cigna is the most common insurance provider
 - Penicillin is the most frequently prescribed medication
 
