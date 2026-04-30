@@ -1,6 +1,7 @@
 # Healthcare-Data-Analysis
 
 **Project Overview**
+
 Healthcare is a data-intensive domain where analytics plays a critical role in improving patient outcomes, optimizing hospital operations, and understanding disease trends.In this project, I performed Exploratory Data Analysis (EDA) on a synthetic healthcare dataset that simulates real-world hospital data. The analysis focuses on uncovering patterns related to patient demographics, medical conditions, hospital performance, and billing insights.
 
 **Objectives**
@@ -25,23 +26,29 @@ The dataset contains 10,000 patient records with the following features:
 - Checked for null values and duplicates (none found)
 
 **Key Analysis & Insights**
+
 **Patient Demographics**
 - Nearly equal distribution of male and female patients
 - Most patients fall in the 18–30 age group
+
 **Medical Conditions**
 - Most common condition: Asthma
 - Followed by: Cancer, Hypertension, Arthritis
+
 **Gender-Based Insights**
 - Females show slightly higher counts across most conditions
 - Cancer is more prominent among females
 - Hypertension is slightly higher among males
+
 **Billing Analysis**
 - Billing ranges from $1,000 to $49,995
 - Top hospitals and doctors contribute significantly to total billing
 - Example: Smith and Sons recorded the highest billing
+
 **Hospitalization Trends**
 - Most patients are hospitalized for short durations (1–30 days)
 - Weak correlation between age, billing, and hospitalization duration
+
 **Insurance & Medication**
 - Cigna is the most common insurance provider
 - Penicillin is the most frequently prescribed medication
